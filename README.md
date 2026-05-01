@@ -1,0 +1,2 @@
+# Neural-Network-Approach-to-Pricing-and-Hedging-Variable-Annuities-with-Guarantees
+Repository for my master's thesis titled "Neural Network Approach to Pricing and Hedging Variable Annuities with Guarantees". The thesis was submitted in fulfillment of the requirements for the degree of Master of Science UZH ETH in Quantitative Finance. It was supervised by Prof. Dr. Patrick Cheridito and co-supervised by Dr. Jean-Loup Dupret.
